@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sarthak.R.Sthapit
 - 👀 I’m interested in Game Design and Environment 
-- 🌱 I’m currently learning to be expert 
 - 💞️ I’m looking to collaborate on Game Assets and Environments
 - 📫 How to reach me sarthak.r.stha2020@gmail.com
 
